@@ -1,5 +1,6 @@
 # scan-websocket-bughost
-untuk scan bug websocket
+
+
 
 
 ![20230525_235701](https://github.com/willstore69/scan-websocket-bughost/assets/107354006/5829b7c7-776f-405e-804f-e78ce55ced6a)
@@ -13,6 +14,22 @@ Disclaimer: Jangan Gunakan Kuota Reguler Saat Menjalankan Script, Sesuaikan Deng
 Caritahu Terlebih Dahulu Paketan Nya Itu Bisa Untuk Mengakses Apps / Website Apa.
 
 Lalu Domain Website nya tinggal di masukin ke script & Tunggu Hingga Proses Selesai
+
+══════════════
+
+SETUP TUTORIAL
+
+STEP 1 : ambil Wordlist
+
+wget -q https://raw.githubusercontent.com/willstore69/scan-websocket-bughost/main/wordlist.txt
+
+STEP 2 : ambil script
+
+wget -q -O cek "https://raw.githubusercontent.com/willstore69/scan-websocket-bughost/main/scan_bug.sh" && chmod +x cek
+
+STEP 3 : jalankan script
+
+./cek <bug.com>
 
 ══════════════
 
