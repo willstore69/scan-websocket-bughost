@@ -35,8 +35,12 @@ STEP 3 : jalankan script
 
 Pengecekan Multi Target Sesuai Wordlist
 
-Command : ./cek <domain>
+Command : ```./cek <domain>```
+  
+contoh : ```./cek udemy.com```
 
 Pengecekan Single Target
 
-Command : ./cek <subdomain>
+Command : ```./cek <subdomain>```
+  
+contoh : ```./cek dashboard.udemy.com```
