@@ -21,11 +21,11 @@ SETUP TUTORIAL
 
 STEP 1 : ambil Wordlist
 
-wget -q https://raw.githubusercontent.com/willstore69/scan-websocket-bughost/main/wordlist.txt
+``wget -q https://raw.githubusercontent.com/willstore69/scan-websocket-bughost/main/wordlist.txt``
 
 STEP 2 : ambil script
 
-wget -q -O cek "https://raw.githubusercontent.com/willstore69/scan-websocket-bughost/main/scan_bug.sh" && chmod +x cek
+``wget -q -O cek "https://raw.githubusercontent.com/willstore69/scan-websocket-bughost/main/scan_bug.sh" && chmod +x cek``
 
 STEP 3 : jalankan script
 
